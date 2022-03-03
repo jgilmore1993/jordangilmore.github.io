@@ -1,0 +1,21 @@
+body {
+    font-size: 18px;
+}
+
+main {
+    margin: 10px auto;
+    width: 960px;
+}
+
+h1 {
+    
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    border: 1px solid #333;
+    padding: 7px;
+    background-color: #ddd;
+    text-align: justify;
+    font-family: 'Roboto Serif', sans-serif;
+}
