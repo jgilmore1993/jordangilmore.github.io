@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    background-color: teal;
+    padding: 25px;
+    justify-content: left;
+    align-items: left;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+font-family: 'Smooch Sans', sans-serif;
+font-size: 20px;
+  }
+img{
+    max-width: 5%;
+}
+header h1{
+    font-size: 35px;
+    padding: 15px;
+}
